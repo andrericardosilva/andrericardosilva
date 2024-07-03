@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil no GitHub! Sou desenvolvedor web e proprietário de uma 
 ## 🚀 Sobre Mim
 
 - 🌟 Proprietário da **PIXEUS**.
-- 👨‍💻 Desenvolvedor com experiência em criar e-commerce, soluçoes, automaçoes de processos e outros projetos personalizados.
+- 👨‍💻 Desenvolvedor FullStack em desenvolvimento de soluçoes, automaçoes de processos, especialista em e-commerce e/ou projetos personalizados.
 - 🎨 Apaixonado por desenvolvimento e novos desafios e sempre em busca de novidades no mundo digital.
 
 ## 💼 Minhas Habilidades
